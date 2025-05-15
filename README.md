@@ -38,6 +38,21 @@ Ces commandes vous aident à obtenir des informations sur les utilisateurs et le
 - 🌍 **iplookup** - Infos détaillées d'une IP
 - 🌍 **id2token** - Donne le début du token
 
+
+## 🚀 Mise en route simple et rapide
+
+Pour faire fonctionner CRYT0S, il vous suffit de suivre ces étapes :
+
+1. Ouvrez le fichier `config.json`.
+2. Recherchez la clé `"token"`.
+3. Remplacez les guillemets vides `""` par **votre token Discord**. Par exemple :  
+   ```json
+   {
+     "token": "votre_token_ici"
+   }
+  
+
+
 ## 🚀 Installation
 
 Pour installer CRYT0S, clonez le dépôt et installez les dépendances :
