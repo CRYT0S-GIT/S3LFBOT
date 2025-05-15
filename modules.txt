@@ -1,0 +1,4 @@
+node-fetch@2
+fs
+json
+discord.js-selfbot-v13
