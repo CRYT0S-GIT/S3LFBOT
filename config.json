@@ -1,0 +1,18 @@
+{
+    "prefix": "$",
+    "remote-users": [],
+    "autoreply": {
+        "channels": [],
+        "users": []
+    },
+    "afk": {
+        "enabled": false,
+        "message": "Je suis AFK."
+    },
+    "discord": {
+        "tokens": [
+            "MTMyODcyMjg3NjQyMTExMTg2MA.GT2uru.SYD9kpSaIaVjPl5BCZ7ggnzDbmjkl_ihyiY89Q",
+            "MTAwMDU0MDIyOTQ0MDEyNzAwNg.G17P9k.9FsgVYN9vV8gcsel9wjNX9zBPky6xk0XZHwMf0"
+        ]
+    }
+}
