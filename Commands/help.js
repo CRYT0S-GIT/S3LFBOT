@@ -33,11 +33,6 @@ module.exports = {
 ║ ├── 🆔 info - Informations sur un ID           ║
 ║ ├── 🌍 iplookup - Infos détaillées d'une IP    ║
 ║ ├── 🌍 id2token - Donne le debut du  token     ║
-╠════════════════════════════════════════════════╣
-║ ❓ BACKUP                                      ║
-║ ├── 📜 lookbackups - Affiche les backups        ║ 
-║ ├── 📜 loadbackup - recrée une backup avec l'id║
-║ ├── 📜 backups - Créer une backup d'un serveur ║
 ╚════════════════════════════════════════════════╝
 \`\`\``;
 
