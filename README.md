@@ -38,19 +38,11 @@ Ces commandes vous aident à obtenir des informations sur les utilisateurs et le
 - 🌍 **iplookup** - Infos détaillées d'une IP
 - 🌍 **id2token** - Donne le début du token
 
-## ❓ BACKUP
-
-Protégez vos données avec ces commandes de sauvegarde :
-
-- 📜 **lookbackups** - Affiche les backups
-- 📜 **loadbackup** - Recrée une backup avec l'ID
-- 📜 **backups** - Créer une backup d'un serveur
-
 ## 🚀 Installation
 
 Pour installer CRYT0S, clonez le dépôt et installez les dépendances :
 
 ```bash
-git clone https://github.com/votre-utilisateur/cryt0s-selfbot.git
-cd cryt0s-selfbot
+git clone https://github.com/CRYT0S-GIT/S3LFBOT.git
+cd S3LFBOT
 npm install
