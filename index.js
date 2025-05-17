@@ -3,7 +3,6 @@ const { Client } = require('discord.js-selfbot-v13');
 const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
-const backups = require('./commands/backups.js');
 const selfbotMenu = require('./menu.js'); // Importation du menu
 
 // Charger le fichier de configuration
