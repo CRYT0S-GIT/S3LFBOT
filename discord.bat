@@ -6,7 +6,7 @@ start "" "C:\Users\%username%\AppData\Local\Discord\Update.exe" --processStart D
 timeout /t 5 /nobreak >nul
 
 :: Ouvre le lien d'invitation dans le navigateur par défaut
-start "" "https://discord.gg/qT5RTp9x"
+start "" "https://discord.gg/qxuCDxnxHG"
 
 echo Discord has been opened and the invite link is in your browser.
 pause
